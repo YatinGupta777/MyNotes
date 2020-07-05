@@ -86,3 +86,8 @@ Functional components vs class components
 If you need a state in your component you will either need to create a class component or you lift the state up to the parent component and pass it down the functional component via props.
 
 
+### Functional vs class based components
+
+![](hook1.png)
+![](hook2.png)
+![](hook3.png)
