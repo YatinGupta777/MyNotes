@@ -7,6 +7,7 @@ Using Font awesome in react.
 Just change the name of icon in import to import different icon.
 
 ```
+npm i --save @fortawesome/free-solid-svg-icons
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircle } from '@fortawesome/free-solid-svg-icons';
 import { faPencilAlt } from '@fortawesome/free-solid-svg-icons';
