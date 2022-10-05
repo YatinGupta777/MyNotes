@@ -90,4 +90,3 @@ If you need a state in your component you will either need to create a class com
 
 ![](hook1.png)
 ![](hook2.png)
-![](hook3.png)
